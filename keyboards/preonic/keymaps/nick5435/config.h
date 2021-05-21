@@ -11,6 +11,7 @@
 #endif
 */
 #define DEBOUNCING_DELAY 5
+#define DYNAMIC_KEYMAP_LAYER_COUNT 4
 
 #ifdef AUDIO_ENABLE
 #   include "custom_songs.h"
