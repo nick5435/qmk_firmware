@@ -1,5 +1,3 @@
 SRC += muse.c
 LTO_ENABLE = no
-TERMINAL_ENABLE = yes
-UNICODE_ENABLE = yes
 VIA_ENABLE = yes

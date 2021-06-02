@@ -1,6 +1,6 @@
 #pragma once
 #undef TEMPO_DEFAULT
-#define TEMPO_DEFAULT 255
+#define TEMPO_DEFAULT 120
 /*
 #define MARIO_THEME \
     Q__NOTE(_E5), \
